@@ -1,2 +1,2 @@
-# JavaScript_2_
+# JavaScript_2
 JavaScript Assignment #2
