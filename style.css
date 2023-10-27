@@ -1,0 +1,30 @@
+.trafficHeading{
+    width: 50%;
+    margin: 20px auto;
+}
+
+.resultHeading {
+    width: 50%;
+    margin: 20px auto;
+}
+
+.markSheetHeading {
+    width: 50%;
+    margin: 20px auto;
+}
+
+.styled-table table {
+    border-collapse: collapse;
+    width: 50%;
+    margin: 20px auto;
+}
+
+.styled-table th, .styled-table td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+}
+
+.styled-table th {
+    background-color: #f2f2f2;
+}
